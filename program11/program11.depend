@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722704950 source:c:\users\sudarshan\documents\engineering\4th sem\ada lab-bcsl404\program11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
